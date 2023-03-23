@@ -8,3 +8,6 @@
 ![image](https://github.com/yjy249/OTB/blob/main/tracker_benchmark-master/Setting_py27.png)
 
 # 替换 data 文件夹
+
+pyhton draw_graph.py
+![image](https://github.com/yjy249/OTB/blob/main/tracker_benchmark-master/draw_graph.png)
